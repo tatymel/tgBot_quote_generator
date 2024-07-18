@@ -13,7 +13,7 @@ LIBS = -ltgbot -lboost_system -lboost_filesystem -lboost_iostreams -lcurl -lssl 
 
 
 # Define the source files
-SRCS = test.cpp
+SRCS = main.cpp
 
 # Define the output executable
 TARGET = main
